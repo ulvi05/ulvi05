@@ -4,19 +4,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvi05&label=Profile%20views&color=0e75b6&style=flat" alt="ulvi05" /> </p>
 
--  I’m currently working on **Twitter Clone**
+<p align="left"> <a href="https://twitter.com/u1lviii" target="blank"><img src="https://img.shields.io/twitter/follow/u1lviii?logo=twitter&style=for-the-badge" alt="u1lviii" /></a> </p>
 
--  I’m currently learning **Socket.io**
+- 🔭 I’m currently working on **Twitter Clone**
 
--  Ask me about **Javascript , Typescript , React , Next.js**
+- 🌱 I’m currently learning **Socket.io**
 
--  How to reach me **aghazadeulvi@gmail.com**
+- 💬 Ask me about **Javascript , Typescript , React , Next.js**
+
+- 📫 How to reach me **aghazadeulvi@gmail.com**
 
 - ⚡ Fun fact **I love swimming, and enjoy playing video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@u1lviii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@u1lviii" height="30" width="40" /></a>
+<a href="https://x.com/@u1lviii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@u1lviii" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/u1lvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="u1lvi" height="30" width="40" /></a>
 <a href="https://instagram.com/u1lviii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u1lviii" height="30" width="40" /></a>
 </p>
