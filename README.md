@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 💬 Ask me about **Javascript , Typescript , React , Next.js**
 
