@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ulvi</h1>
 <h3 align="center">A passionate Frontend Developer from Azerbaijan</h3>
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ulvi05&label=Profile%20views&color=0e75b6&style=flat" alt="ulvi05" /> </p>
 
