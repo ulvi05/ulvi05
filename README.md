@@ -103,6 +103,3 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </a>
 </p>
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ulvi05&show_icons=true&locale=en" alt="ulvi05" />
-</p>
