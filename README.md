@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ulvi Aghazade
-### Frontend Developer • JavaScript Enthusiast • React & Next.js
+### Frontend Developer • JavaScript & Typescript Enthusiast • React & Next.js
 
 <img src="https://komarev.com/ghpvc/?username=ulvi05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
