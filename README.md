@@ -16,7 +16,7 @@ I care about every detail — from clean component architecture to smooth user i
 
 Whether it's a complex dashboard or a simple landing page, I bring the same energy to make it great.
 
-- 🌐 Portfolio → [ulvi.space](https://www.ulvi.space/)
+- 🌐 Portfolio → [ulvii.dev](https://www.ulvii.dev/)
 ---
 
 ## 🚀 Core Technologies
