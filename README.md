@@ -96,7 +96,7 @@ Whether it's a complex dashboard or a simple landing page, I bring the same ener
 
 ## 📫 Contact
 
-- 📧 aghazadeulvi@gmail.com
+- 📧 contact@ulvii.dev
 
 ---
 
